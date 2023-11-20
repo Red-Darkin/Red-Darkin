@@ -8,4 +8,4 @@
 Red-Darkin/Red-Darkin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79657742"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79661787">
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79657742"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79661787"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/87473650">
