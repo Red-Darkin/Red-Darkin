@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning about cloud and mobile security
 - 📫 How to reach me red_darkin@proton.me
 - 🥷 First Place in Mercado Libre LHE Colombia 2023
+- 🥷 BurpSuite Certified Practitioner (BSCP)
 
 <!---
 Red-Darkin/Red-Darkin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
