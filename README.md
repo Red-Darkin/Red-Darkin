@@ -12,5 +12,5 @@ You can click the Preview link to take a look at your changes.
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79661787"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79657742"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/87473650"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/109613361">
 
 <br>
-[![Buy me a HackBeer](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20HackBeer&emoji=🍺&slug=red.darkin&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/red.darkin)
+<img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20HackBeer&emoji=🍺&slug=red.darkin&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00">
 </br>
