@@ -13,6 +13,6 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 <a href="https://www.buymeacoffee.com/red.darkin" target="_blank">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=red.darkin&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me a Coffee">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a HackBeer&emoji=&slug=red.darkin&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me a Coffee">
 </a>
 </br>
