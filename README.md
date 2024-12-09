@@ -11,4 +11,8 @@ You can click the Preview link to take a look at your changes.
 --->
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79661787"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79657742"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/87473650"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/109613361">
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="red.darkin" data-color="#FF5F5F" data-emoji="🍺"  data-font="Cookie" data-text="Buy me a hackbeer" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+<br>
+<a href="https://www.buymeacoffee.com/red.darkin" target="_blank">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=red.darkin&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me a Coffee">
+</a>
+</br>
